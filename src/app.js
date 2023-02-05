@@ -175,7 +175,10 @@ class App {
             })
         });
 
+
         ///// GUI DAY-NIGHT /////////
+        /// THIS LINE BREAKS IT //////
+
         // const adt = BABYLON.GUI.AdvancedDynamicTexture.CreateFullscreenUI("UI");
 
      
